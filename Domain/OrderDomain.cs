@@ -25,7 +25,7 @@ namespace Cricut.Orders.Domain
         }
         */
 
-        //New implemebtation
+        //New implementation
         public async Task<Order> CreateNewOrderAsync(Order order)
         {
                 // Calculate subtotal
